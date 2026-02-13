@@ -1,6 +1,13 @@
 # fastapi
 
-Fastapi baseline
+FastAPI baseline application.
+
+## Local development
+
+```bash
+pip install -e ".[test]"
+pytest
+```
 
 ## Docker
 
