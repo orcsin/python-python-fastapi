@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+*.pyo
+*.egg-info
+dist
+build
+.git
+.gitignore
+.pytest_cache
+test-report.xml
+tests
+LICENSE
+README.md
