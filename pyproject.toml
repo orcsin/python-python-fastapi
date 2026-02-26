@@ -34,6 +34,7 @@ exclude = ["tests*"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+pythonpath = ["."]
 addopts = "-rsxX -l --tb=short --junitxml=test-report.xml"
 
 [tool.flake8]
